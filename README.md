@@ -1,8 +1,8 @@
-### О себе
-Меня зовут Наталья Ешманская, более 3 лет я работаю аналитиком данных в крупных международных телеком компаниях, таких как МТС и A1 Telekom Austria Group.  
-Показала отличные навыки работы с SQL, Python, Redash и Tableau во время анализа абонентских баз с миллионами пользователей.  
-Для углубления знаний в аналитике прошла несколько курсов, где прокачала навыки работы с вышеуказанными инструментами, а так же освоила GitLab и Airflow.  
-### Контакты  
+### Hi there, I'm Natallia
+Data Analyst with 3+ years of experience in Russia's largest mobile operator (MTS) and international telecom A1.  
+Proven excellent SQL, Python, Redash and Tableau skills while working with subscriber bases for millions of users.  
+To deepen my knowledge in analytics I took several courses where I improved my skills with the above tools as well as mastered GitLab and Airflow. 
+### Contacts  
 https://www.linkedin.com/in/natallia-yeshmanskaya-2020a1149/  
 
 
